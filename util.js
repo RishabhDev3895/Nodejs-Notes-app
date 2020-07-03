@@ -1,6 +1,5 @@
 const fs= require('fs')
 const chalk= require('chalk')
-const { Console } = require('console')
 
 
 //add new note to file
